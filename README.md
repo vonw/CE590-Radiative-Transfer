@@ -4,13 +4,14 @@
 
 ####IPython Notebooks
 #####Chapter 3
-  [Sun Angles]()
+  [Sun Angles](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Sun%20Angles.ipynb)
+  
 
-<p>Von P. Walden, Professor</p>
-<p>Laboratory for Atmospheric Research</p>
-<p>Department of Civil and Environmental Engineering</p>
-<p>Washington State University</p>
-<p>Pullman, WA  99164-2910</p>
-<p>509-335-5645 (office)</p>
-<p>v.walden@wsu.edu</p>
+<p>Von P. Walden, Professor<br>
+Laboratory for Atmospheric Research<br>
+Department of Civil and Environmental Engineering<br>
+Washington State University<br>
+Pullman, WA  99164-2910<br>
+509-335-5645 (office)<br>
+v.walden@wsu.edu</p>
 
