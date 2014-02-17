@@ -8,19 +8,19 @@
   [Planetary Energy Balance](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Planetary%20Energy%20Balance.ipynb)
   
 #####Chapter 2 - Properties of Radiation
-  [Spherical Coordinates](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Spherical%20Coordinates.ipynb)
-  [Sun Angles](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Sun%20Angles.ipynb)
-  [Insolation](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Insolation.ipynb)
+  [Spherical Coordinates](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Spherical%20Coordinates.ipynb)<br>
+  [Sun Angles](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Sun%20Angles.ipynb)<br>
+  [Insolation](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Insolation.ipynb)<br>
   [Solar Spectral Irradiance](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Solar%20Spectral%20Irradiance.ipynb)
   
 #####Chapter 4 - Reflection and Refraction
-  [Reflection and Refraction]()
+  [Reflection and Refraction](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Refraction%20and%20Reflection.ipynb)
   
 #####Chapter 5 - Radiative Properties of Natural Surfaces
-  [Solar Reflectivity]()
+  [Solar Reflectivity](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Solar%20Reflectivity.ipynb)
 
 #####Chapter 6 - Thermal Emission
-  [Planck Functions]()
+  [Planck Functions](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Planck%20Functions.ipynb)
   
   
 <p><br><br><br>
