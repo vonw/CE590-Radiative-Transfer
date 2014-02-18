@@ -2,7 +2,7 @@
 
 ###This repository contains teaching materials for Radiative Transfer (CE 590) at Washington State University.
 
-####IPython Notebooks
+###IPython Notebooks
 
 #####Chapter 1 - Introduction
   [Planetary Energy Balance](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Planetary%20Energy%20Balance.ipynb)
@@ -22,7 +22,7 @@
 #####Chapter 6 - Thermal Emission
   [Planck Functions](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Planck%20Functions.ipynb)
   
-####LBLRTM
+###LBLRTM
 #####[Run LBLRTM example](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Run%20LBLRTM%20example.ipynb)
 
 
