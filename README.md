@@ -14,7 +14,7 @@
   [Solar Spectral Irradiance](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Solar%20Spectral%20Irradiance.ipynb)
   
 #####Chapter 4 - Reflection and Refraction
-  [Reflection and Refraction](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Refraction%20and%20Reflection.ipynb)
+  [Reflection and Refraction](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Reflection%20and%20Refraction.ipynb)
   
 #####Chapter 5 - Radiative Properties of Natural Surfaces
   [Solar Reflectivity](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Solar%20Reflectivity.ipynb)
