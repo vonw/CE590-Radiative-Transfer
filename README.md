@@ -21,6 +21,7 @@
 
 #####Chapter 6 - Thermal Emission
   [Planck Functions](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Planck%20Functions.ipynb)
+  [Single layer, Nonreflecting Atmosphere](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Single%20Layer,%20Nonreflecting%20Atmosphere.ipynb)
   
 ###LBLRTM
   [Run LBLRTM example](http://nbviewer.ipython.org/github/vonw/CE590-Radiative-Transfer/blob/master/Run%20LBLRTM%20example.ipynb)<br>
