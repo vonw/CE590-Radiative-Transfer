@@ -1,0 +1,27 @@
+1
+                                                                                   LBLRTM    14/03/02  22:19:35
+
+
+ INITIAL LAYER =     1   FINAL LAYER =   37
+0          SECANT =        0.00000
+0          PRESS(MB) =   506.83798
+0          TEMP =  258.29
+0          DV =  0.27551201 CM-1
+0          V1 =  100.000000 CM-1
+0          V2 = 2000.000000 CM-1
+0
+0 COLUMN DENSITY (MOLECULES/CM**2)
+
+      OTHER =  1.698E+25
+        H2O =  1.354E+23
+        CO2 =  7.094E+21
+         O3 =  7.569E+18
+        N2O =  6.583E+18
+         CO =  2.336E+18
+        CH4 =  3.537E+19
+         O2 =  4.493E+24
+0
+    IHIRAC    ILBLF4    ICNTNM    IXSECT    IAERSL     IEMIT     ISCAN     IPLOT    IPATHL      JRAD    JFNVAR      HWHM
+         1         1         1         0         0         1        14         0         3         0        0.   0.19454
+0     WAVENUMBER          RADIANCE  
+
